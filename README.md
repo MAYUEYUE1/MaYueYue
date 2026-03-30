@@ -5,4 +5,4 @@
 
 .下面是我的座右铭
 
-Believe yourself and you can do it.
+>Believe yourself and you can do it.
